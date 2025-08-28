@@ -1,0 +1,12 @@
+# CODEOWNERS file for test-repo-6
+# This file defines who owns specific files or directories in this repository
+# For more information about CODEOWNERS files, see:
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Global rule: All files are owned by default owner
+* @kai-investigate2/reviewer
+
+# Example rules (you can customize these):
+# *.md @kai-investigate2/reviewer
+# /src/ @kai-investigate2/reviewer
+# /.github/ @kai-investigate2/reviewer
